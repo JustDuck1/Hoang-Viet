@@ -1,0 +1,6 @@
+﻿  demo.cpp
+C:\Users\admin\Dropbox\PC\Desktop\Git\JD03\Project1\Project1\demo.cpp(12,11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\admin\Dropbox\PC\Desktop\Git\JD03\Project1\Project1\demo.cpp(13,11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\admin\Dropbox\PC\Desktop\Git\JD03\Project1\Project1\demo.cpp(14,11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\admin\Dropbox\PC\Desktop\Git\JD03\Project1\Project1\demo.cpp(15,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Project1.vcxproj -> C:\Users\admin\Dropbox\PC\Desktop\Git\JD03\Project1\Debug\Project1.exe
